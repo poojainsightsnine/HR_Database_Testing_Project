@@ -34,6 +34,7 @@ Performance.
 ✅ Listed excellent performers by department – validated performance data.
 
 **Testing Focus**
+
 Data Validation: Making sure each employee is correctly mapped to their department and job role
 
 Business Rule Testing: Checking salary limits, job levels, and hire dates
@@ -43,6 +44,7 @@ Null & Boundary Checks: Finding employees without assigned managers
 Reporting Validation: Using aggregate queries to confirm totals, averages.
 
 **What I learned**
+
 Through this project, I learned how to:
 
 Validate data accuracy and relationships between multiple tables
