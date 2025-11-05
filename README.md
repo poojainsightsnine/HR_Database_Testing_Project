@@ -33,6 +33,8 @@ Performance.
 
 ✅ Listed excellent performers by department – validated performance data.
 
+✅ Calculated department-wise average performance score – used CASE and AVG()
+
 **Testing Focus**
 
 Data Validation: Making sure each employee is correctly mapped to their department and job role
@@ -58,4 +60,3 @@ Analyze and report employee insights directly from SQL queries
 
 
 
-✅ Calculated department-wise average performance score – used CASE and AVG()
