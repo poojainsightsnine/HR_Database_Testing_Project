@@ -2,6 +2,7 @@
 In this HR Database Testing Project,I created and tested an HR Management System database using MySQL.
 The main goal was to validate data, check relationships, and perform business rule testing.
 This project simulates an HR system containing tables for:
+
 Employees.
 
 Departments.
